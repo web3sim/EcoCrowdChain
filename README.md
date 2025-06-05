@@ -2,17 +2,29 @@
 
 ## Overview
 
-EcoCrowdChain is a blockchain-based eco crowdfunding platform designed to revolutionize the way sustainable initiatives are funded and supported. Leveraging the power of blockchain technology, EcoCrowdChain aims to address key challenges in traditional crowdfunding while empowering eco-friendly projects to thrive.
+**EcoCrowdChain** is a decentralized crowdfunding platform designed for eco-projects, empowering green initiatives through transparent, trustless smart contract-based funding. Built on the **Neon EVM Devnet**, it combines Ethereum tooling with Solana performance to offer a secure and scalable platform for environmental impact.
 
-## Key Features
+## 🌐 Live on
 
-- **Transparency and Accountability:** Utilizing blockchain's immutable ledger, EcoCrowdChain ensures complete transparency and accountability in fund allocation and project progress tracking.
-  
-- **Reduced Transaction Costs:** By eliminating intermediaries and streamlining transactions on the blockchain, EcoCrowdChain significantly reduces transaction costs, maximizing the impact of contributions.
+- **Network**: Neon EVM Devnet  
+- **Explorer**: [NeonScan (Devnet)](https://devnet.neonscan.org/)
+- **RPC URL**: `https://devnet.neonevm.org`
 
-- **Global Accessibility:** EcoCrowdChain breaks down geographical barriers, allowing eco projects from around the world to access funding and reach a diverse pool of supporters.
+## 🧩 Features
 
-- **Community Engagement:** With its user-friendly interface and interactive features, EcoCrowdChain encourages active participation and engagement from its community members, fostering collaboration and innovation.
+- ✅ **Eco-focused Campaigns** – Crowdfund verified environmental initiatives
+- 🔐 **Smart Contract Escrow** – Funds are only released on milestone completion
+- 📊 **Impact Dashboard** – Track funding progress and usage in real-time
+- 🧪 **Neon EVM Compatible** – Deploy with familiar Ethereum tools (Hardhat, MetaMask)
+- 💚 **Trustless & Transparent** – Powered by immutable smart contracts
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React, TailwindCSS  
+- **Smart Contracts**: Solidity, Hardhat  
+- **Blockchain**: Neon EVM (Solana + Ethereum hybrid)  
+- **Wallet**: MetaMask  
+- **Storage**: IPFS (for project data)
 
 
 ## License
